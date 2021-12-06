@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorLightWhite">#E6E6E6</color>
+    <color name="colorPrimaryDark">@color/colorGray</color>
+    <color name="colorBlue">#3f58ec</color>
+    <color name="colorGreen">#60bd68</color>
+    <color name="colorAccent">#27aae2</color>
+    <color name="colorPropNex">#00AEEF</color>
+    <color name="colorButtonPress">#B3E5FC</color>
+    <color name="colorButtonFocus">#81D4FA</color>
+    <color name="colorButtonHovered">#81D4FA</color>
+    <color name="colorButton">#03A9F4</color>
+    <color name="colorBlack">#1A2236</color>
+    <color name="colorBlakck_01">#1A2236</color>
+    <color name="colorGray">#d3d3d3</color>
+    <color name="colorGray91">#ededed</color>
+    <color name='colorWhiteSmoke'>#f5f5f5</color>
+    <color name="colorSilver">#646464</color>
+    <color name="colorLightSilver">#E8E8E8</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorData">#3f6fb1</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="colorYellow">#faa43a</color>
+    <color name="colorRed">#e91919</color>
+    <color name="colorcb0e0e">#cb0e0e</color>
+    <color name="ediitext">#999999</color>
+    <color name="alert_error_bg">#FFBABA</color>
+    <color name="alert_error_lbl">#D8000C</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_gray">#424242</color>
+    <color name="transparent_background">#80000000</color>
+    <color name="navigation_drawer_selected_color">#e87e04</color>
+    <color name="transparent_white">#CCffffff</color>
+    <color name="transparent_white_99">#99ffffff</color>
+    <color name="transparent_black">#CC000000</color>
+    <color name="transparent_grey">#80181818</color>
+    <color name="colorSheetText">#DE000000</color>
+    <color name="alert_success_bg">#DFF2BF</color>
+    <color name="alert_success_lbl">#4F8A10</color>
+    <color name="pink">#e91e63</color>
+    <color name="alert_warning_bg">#FEEFB3</color>
+    <color name="alert_warning_lbl">#3F3F40</color>
+    <color name="transparent">#00000000</color>
+    <color name="alert_info_bg">#BDE5F8</color>
+    <color name="alert_info_lbl">#00529b</color>
+    <color name="green">#92D680</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="black_semi_transparent2">#77000000</color>
+    <color name="blue_semi_transparent">#2191f1</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <color name="blue_dark">#010927</color>
+    <color name="line1_Color">#82e7fd</color>
+    <color name="line1_GStartColor">#008ceaff</color>
+    <color name="line1_GEndColor">#8ceaff</color>
+
+    <color name="line11_Color">#0065a7</color>
+    <color name="line11_GStartColor">#000072bd</color>
+    <color name="line11_GEndColor">#0072bd</color>
+
+    <color name="colorf3f3f3">#E7E7E7</color>
+    <color name="colorBac1">#E7E6E1</color>
+    <color name="colorBac2">#F7F6E7</color>
+    <color name="line2_Color">#f15854</color>
+    <color name="line2_GStartColor">#00ef625f</color>
+    <color name="line2_GEndColor">#ef625f</color>
+    <color name="half_black">#808080</color>
+    <color name="black">#000000</color>
+    <color name="colorGreyLight">#dedede</color>
+    <color name="colorGrey">@android:color/darker_gray</color>
+    <color name="appcolor">#00AEEF</color>
+    <color name="line3_Color">#60bd68</color>
+    <color name="line3_GStartColor">#0073bf7a</color>
+    <color name="line3_GEndColor">#73bf7a</color>
+
+    <color name="line4_Color">#faa43a</color>
+    <color name="line4_GStartColor">#00f9ad50</color>
+    <color name="line4_GEndColor">#f9ad50</color>
+
+    <color name="line5_Color">#7d298e</color>
+    <color name="line5_GStartColor">#007e2f8e</color>
+    <color name="line5_GEndColor">#7e2f8e</color>
+    <color name="fontColorBlk">#484848</color>
+    <color name="colorGray_light">#e9e7e7</color>
+    <color name="black_header">#222222</color>
+    <color name="docmgt_header2">#00AEE8</color>
+    <color name="black_sub_header">#484848</color>
+    <color name="colorCyan_27AAE2">#27AAE2</color>
+    <color name="colorCyan_0070D2">#0070D2</color>
+    <color name="colorGrey_EBF1F5">#EBF1F5</color>
+    <color name="colorGrey_808080">#808080</color>
+    <color name="colorGray_f7f7f7">#f7f7f7</color>
+    <color name="bgCyan">#f0f5f7</color>
+
+    <color name="view_color">#B2B2B2</color>
+    <color name="greyishBrown">#90454545</color>
+
+    <!-- Ideahub -->
+    <color name="colorPrimaryM">@color/colorScheme1</color>
+    <color name="colorPrimaryDarkM">@color/colorScheme1</color>
+    <color name="colorAccentM">#D81B60</color>
+    <color name="chopeSale">#2DC344</color>
+    <color name="chopeRent">#C32D2D</color>
+    <color name="chopeRoom">#EF6C00</color>
+    <color name="chopeNegativeButton">#DA7984</color>
+    <color name="chopeViewPagerNavButtonsBg">#4D646464</color>
+
+    <!-- Provided by the client -->
+    <color name="colorScheme1">#27AAE2</color>
+    <color name="colorScheme2">#646464</color>
+    <color name="colorScheme3">#1A2236</color>
+    <color name="colorScheme1Dark">#2499CA</color>
+    <color name="consumerApp1">#293F68</color>
+    <color name="consumerApp2">#516EA3</color>
+    <color name="consumerApp3">#96C64B</color>
+    <color name="consumerApp4">#A6BDE2</color>
+
+    <!-- ChopeConstant -->
+    <color name="view_focused">@color/amber_300</color>
+
+    <!-- Activity -->
+    <color name="colorBackgroundDefault">@color/white</color>
+
+    <!-- Button -->
+    <color name="btn_default_background">@color/white</color>
+    <color name="btn_primary_color">@color/colorPrimaryM</color>
+    <color name="btn_primary_pressed_color">@color/colorScheme1Dark</color>
+
+    <!-- Search Bar Default-->
+    <color name="search_bar_default_color">@color/grey_200</color>
+    <color name="search_bar_default_pressed_color">@color/grey_300</color>
+
+    <!-- RecyclerView Item Default-->
+    <color name="rv_item_default_background">@color/white</color>
+    <color name="progress_Green">#02af5f</color>// 100
+    <color name="progress_lightGreen">#8cd063</color>//75 - 99
+    <color name="progress_yellow">#fffe58</color>//50 - 74
+    <color name="progress_orange">#ffc03f</color>//25 - 49
+    <color name="progress_red">#ff0011</color>
+    <color name="bg">#E7E7E7</color>
+    <color name="waiting">#FFB629</color>
+    <drawable name="yellow_unread">@color/yellow_50</drawable>
+    <color name="sell_background">#5FB3A0</color>
+    <color name="buy_background">#3887C9</color>
+    <color name="sell_background_new">#8BC34A</color>
+    <color name="buy_background_new">#00AEEF</color>
+    <color name="sell_container">#ACDDD3</color>
+    <color name="sell2_container">#F8CC8D</color>
+    <color name="buy_container">#91BCE6</color>
+    <color name="buy2_container">#F8A9AE</color>
+    <color name="sell_new">#78BC71</color>
+    <color name="sell2_new">#326B00</color>
+    <color name="buy_new">#1F99D0</color>
+    <color name="buy2_new">#295A9F</color>
+    <color name="oh_price_color">#8CC449</color>
+    <color name="sell1_border">#F7941E</color>
+    <color name="sell2_border">#5DB39E</color>
+    <color name="buy2_border">#EE3E56</color>
+    <color name="crm_shared_doc">#12998A</color>
+    <color name="whatsapp_color">#00A82D</color>
+
+    <color name="selected_date_circle_color">@color/orange_800</color>
+    <color name="range_date_color">@color/orange_800</color>
+    <color name="selected_date_color">@color/white</color>
+    <color name="range_bg_color_app">@color/orange_500</color>
+
+    <array name="crm_create_colors">
+        <item>#3db8f1</item>
+        <item>#1c8bc9</item>
+        <item>#fe5e39</item>
+        <item>#d94343</item>
+        <item>#8ed134</item>
+        <item>#6eb83f</item>
+        <item>#5c9fbb</item>
+        <item>#438199</item>
+        <item>#0abfc6</item>
+        <item>#159aa3</item>
+    </array>
+
+</resources>

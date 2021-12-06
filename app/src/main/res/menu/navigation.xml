@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_project"
+        android:icon="@mipmap/nav_grey_1"
+        android:title="Project"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/nav_lear"
+        android:icon="@mipmap/nav_grey_2"
+        android:title="Learn"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/nav_tools"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+
+        android:icon="@mipmap/nav_grey_3"
+        android:title="Tools"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/nav_report"
+        android:icon="@mipmap/nav_grey_4"
+        android:title="Report"
+        app:showAsAction="always|withText" />
+
+    <item
+        android:id="@+id/nav_foru"
+        android:icon="@mipmap/nav_grey_5"
+        android:title="For You"
+        app:showAsAction="always|withText" />
+
+
+</menu>        

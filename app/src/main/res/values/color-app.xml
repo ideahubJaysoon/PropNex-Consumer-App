@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="project_type_data1_ccr">@color/teal_400</color>
+    <color name="project_type_data1_ocr">@color/brown_400</color>
+    <color name="project_type_data0_background">?attr/colorPrimary</color>
+    <color name="text_title">@color/black</color>
+</resources>
